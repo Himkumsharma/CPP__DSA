@@ -12,7 +12,7 @@ int main()
   int i=0;
 
 
-  while (n !=0) 
+  while (n!= 0) 
   {
     /* code */
     int digit=n % 10;

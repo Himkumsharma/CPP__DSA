@@ -4,8 +4,9 @@ int main()
 {
 
 int n;
-cout<<"Enterr the value of n"<<endl;
+cout<<"Enter the value of n"<<endl;
 cin>>n;
+
 
 bool isPrime =1;
 
